@@ -38,7 +38,7 @@ namespace ElectronMVCApplication.Controllers
             //var test = dbContext.Database.CanConnect();
             //return Json(test);
             //return View();
-            string serviceUrl = "https://yourorg.crm.dynamics.com";
+            string serviceUrl = "https://notal.api.crm.dynamics.com/api/data/v9.1";
             string clientId = "a17caa81-8704-49e8-8125-68d85e5fec3d";
             string userName = "andrewh@notalvision.com";
             string password = "&gxzK,6A2jMJ9m/";
