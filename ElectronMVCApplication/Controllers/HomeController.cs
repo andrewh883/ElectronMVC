@@ -39,9 +39,9 @@ namespace ElectronMVCApplication.Controllers
             //return Json(test);
             //return View();
             string serviceUrl = "https://yourorg.crm.dynamics.com";
-            string clientId = "51f81489-12ee-4a9e-aaae-a2591f45987d";
-            string userName = "you@yourorg.onmicrosoft.com";
-            string password = "yourpassword";
+            string clientId = "a17caa81-8704-49e8-8125-68d85e5fec3d";
+            string userName = "andrewh@notalvision.com";
+            string password = "&gxzK,6A2jMJ9m/";
 
             AuthenticationContext authContext =
                 new AuthenticationContext("https://login.microsoftonline.com/common", false);
